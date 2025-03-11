@@ -22,7 +22,9 @@ The purpose of the analysis is to build a neural network model to help determine
 Data Preprocessing
 
   a. The target varaible for the model is "IS_SUCCESSFUL."
+  
   b. The variables are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS.
+  
   c. Variables that were removed from the input data were EIN and NAME.
 
 Compiling, Training and Evaluating the Model

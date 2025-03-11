@@ -43,10 +43,8 @@ Compiling, Training and Evaluating the Model
   e. The model achieved an accuracy of 72-73% on the test dataset. There is room for improvement.
 
   f. Steps taken to attempt to increase model performance:
-  Early Stopping
-  Dropout
-  Batch Normalization
-  Hyperparameter Tuning
+  
+  Early Stopping, Dropout, Batch Normalization, and Hyperparameter Tuning
 
 3. SUMMARY
 

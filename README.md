@@ -31,9 +31,13 @@ Data Preprocessing
 Compiling, Training and Evaluating the Model
 
   d. The neural network architecture consists of:
-  Input Layer - 34 input featuers
+  
+  Input Layer - 34 input features
+  
   First Hidden Layer - 128 neurons with ReLU activation
+  
   Second Hidden Layer - 64 neurons with ReLU activation
+  
   Output Layer - 1 neuron with a sigmoid activation
 
   e. The model achieved an accuracy of 72-73% on the test dataset. There is room for improvement.

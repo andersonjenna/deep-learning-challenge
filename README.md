@@ -10,7 +10,7 @@ Run the AlphabetSoupCharity_Optimization.ipynb in Jupyter Notebook.
 
 The AlphabetSoupCharity.h5 and AlphabetSoupCharity_Optimization.h5 files are products of running the above Google Colab and Jupyter Notebook files.
 
-Chat GPT was used to debug code. 
+ChatGPT was used to debug code. 
 
 My Written Report on the Neural Network Model is below.
 

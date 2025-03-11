@@ -18,7 +18,7 @@ My Written Report on the Neural Network Model is below.
    
 The purpose of the analysis is to build a neural network model to help determine whether or not organizations funded by Alphabet Soup would be succesful.
 
-3. RESULTS
+2. RESULTS
 
 Data Preprocessing
 

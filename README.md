@@ -14,10 +14,11 @@ Chat GPT was used to debug code.
 
 My Written Report on the Neural Network Model is below.
 
-1. OVERVIEW 
+1. OVERVIEW
+   
 The purpose of the analysis is to build a neural network model to help determine whether or not organizations funded by Alphabet Soup would be succesful.
 
-2. RESULTS
+3. RESULTS
 
 Data Preprocessing
 
